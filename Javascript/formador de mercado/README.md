@@ -26,7 +26,6 @@ Esse algoritmo busca continuamente o livro de pedidos atual para um determinado 
 API_KEY= Z59H9xQTqh4HvYV-BrzzFvVy
 API_SECRET=RuL-uXURsjmU1AXHoergGqTSM8aKpsccISUgNonos6RpGT4k
 ```
-## No Arquivo index.js alterar as seguintes etapas
 
 - Altere a baseURL, a sua necessidade, que está nesse trecho do código:
  ```bash
@@ -40,6 +39,8 @@ API_SECRET=RuL-uXURsjmU1AXHoergGqTSM8aKpsccISUgNonos6RpGT4k
     }
   });
 ```
+
+## No Arquivo index.js alterar as seguintes etapas:
 
 - Defina o ticker do ativo e outros parâmetros, que será usado alterando os campos:
  ```bash
