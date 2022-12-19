@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 Este repositório estão meus algoritimos públicos em Javascript e Python,
-fique a vontade para baixar e fazer testes, os algoritimos em Python ainda estão em construção !
+fique a vontade para baixar e fazer testes !
 
 
 # 🛑 Disclaimer
